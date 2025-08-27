@@ -35,3 +35,24 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+# React Native / Expo
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+package-lock.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
