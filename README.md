@@ -48,7 +48,7 @@ Open MainScreen.js & SearchScreen.js.
 
 Replace API_KEY with your key:
 
-const API_KEY = "YOUR_API_KEY_HERE";
+const API_KEY = "90577f15333c82b1c935735591fe3a7f`";
 
 4️⃣ Run the App
 npx expo start
@@ -78,3 +78,4 @@ Or scan QR code with Expo Go app on your phone
 
 Sohel Khan
 🔗 GitHub Profile
+
